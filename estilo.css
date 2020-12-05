@@ -1,0 +1,25 @@
+* { padding: 0; margin:0; }
+	
+div { padding:15px;}
+	h1 { text-align: center;}
+	
+p{text-align: center;}
+	a{background: white; padding: 5px; margin: 5px;}
+	
+.parteMENU { background:#ece49c; padding:15px;}
+	
+.parteContenido{ background:#e0dede; padding:15px; }
+	
+.contenido1 {background: white; text-align: center; align-content: justify; margin: 10px;}
+	
+.contenido2 {background: white; text-align:center; align-content: justify; margin:10px;}
+        
+.contenido3 {background: white; text-align:center; align-content: justify; margin:10px;}
+	
+.partePiePagina {background: #c7b5e8; padding: 15px; text-align: }
+	
+.imagen1 {text-align:center; width: 300px; height: 300px; margin: 15px;}
+	
+.imagen2 {text-align:center; width:300px ; height:300px; margin: 15px;}
+	
+.imagen3 {text-align:center; width:300px ; height:300px; margin: 15px;}
